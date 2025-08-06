@@ -7,3 +7,5 @@
   git push origin main
   nano git_commands.txt
   git add git_commands.txt# test line
+  git push origin master
+  git status  
