@@ -1,0 +1,9 @@
+  git add git_commands.txt
+  git status
+  git commit -m "Updated git_commands.txt"
+  git branch
+  git push origin main
+  git push origin master
+  git push origin main
+  nano git_commands.txt
+  git add git_commands.txt
